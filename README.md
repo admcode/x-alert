@@ -21,7 +21,7 @@ Web Component for display alert content your message
 3. Start using it!
 
     ```html
-    <x-alert type="info" text="Start using it!"></x-alert>
+    <x-alert text="Start using it!" type="info"></x-alert>
     ```
 
 ## Setup
