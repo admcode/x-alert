@@ -55,7 +55,7 @@ In order to run it locally you'll need a basic server setup.
 
 Attribute  | Options                                | Default
 ---        | ---                                    | ---
-`type`     | `notify`, `warning`, `success`, `info` | `info
+`type`     | `notify`, `warning`, `success`, `info` | `info`
 `text`     | *string*                               | `Your text here`
 
 ## Contributing
