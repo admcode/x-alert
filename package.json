@@ -1,0 +1,19 @@
+{
+    "name": "x-alert",
+    "version": "0.0.0",
+    "description": "Web Component for display alert content your message",
+    "author": "@FTonato",
+    "license": "MIT",
+    /*"repository": {
+        "type": "git",
+        "url": "https://github.com/webcomponents/element-boilerplate"
+    },
+    "bugs": {
+        "url": "https://github.com/webcomponents/element-boilerplate/issues"
+    },*/
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-connect": "~0.5.0",
+        "grunt-cli": "~0.1.9"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "x-alert",
+    "version": "0.0.0",
+    "description": "Web Component for display alert content your message",
+    "authors": [
+        "@FTonato"
+    ],
+    "license": "MIT",
+    "main": "src/x-alert.html",
+    "keywords": [
+        "web-component",
+        "web-components"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "platform": "Polymer/platform#~0.2.0",
+        "polymer": "Polymer/polymer#~0.2.0"
+    }
+}

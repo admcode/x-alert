@@ -1,0 +1,17 @@
+<polymer-element name="x-alert" attributes="type text">
+    <template>
+        <div class="alert {{type}}">
+			<span class="title"> {{type}} </span>
+			<span class="text">  {{text}} </span>
+		</div>
+    </template>
+
+    <script>
+        Polymer('x-alert', {
+            text: '',
+            type: ''
+
+        });
+    </script>
+
+</polymer-element>
