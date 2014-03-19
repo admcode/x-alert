@@ -9,7 +9,8 @@
     "main": "src/x-alert.html",
     "keywords": [
         "web-component",
-        "web-components"
+        "web-components",
+        "x-alert"
     ],
     "ignore": [
         "**/.*",
