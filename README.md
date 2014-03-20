@@ -4,6 +4,11 @@ Web Component for display alert content your message
 
 > Maintained by [admcode](https://github.com/admcode).
 
+## Demo
+
+> [Check it live](http://admcode.github.io/demo-x-alert).
+
+
 ## Usage
 
 1. Import Web Components' polyfill:
