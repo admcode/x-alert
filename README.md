@@ -67,9 +67,6 @@ Attribute  | Options                                | Default
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-For detailed changelog, check [Releases](https://github.com/webcomponents/element-boilerplate/releases).
 
 ## License
 
