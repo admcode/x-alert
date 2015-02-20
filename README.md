@@ -2,11 +2,11 @@
 
 Web Component for display alert content your message
 
-> Maintained by [admcode](https://github.com/admcode).
+> Maintained by [ftonato](https://github.com/ftonato).
 
 ## Demo
 
-> [Check it live](http://admcode.github.io/demo-x-alert).
+> [Check it live](http://ftonato.github.io/demo-x-alert).
 
 
 ## Usage
